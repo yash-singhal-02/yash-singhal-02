@@ -1,7 +1,7 @@
-![logo](https://github.com/yash-singhal-02/yash-singhal-02/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![logo](https://github.com/yash-singhal-02/yash-singhal-02/blob/main/Screenshot%202025-04-24%20235333.png)
 <h1 align="center">Hi 👋, I'm Yash Singhal</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
-<img align = "right" alt="coding" width="400" src=""C:\Users\Hp\OneDrive\Pictures\Screenshots\Screenshot 2025-04-24 235333.png"">
+<img align = "right" alt="coding" width="400" src="[C:\Users\Hp\OneDrive\Pictures\Screenshots\Screenshot 2025-04-24 235333.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdata&psig=AOvVaw0tZfFUdG2qF3YXV01yQKVV&ust=1745606407717000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMizyOGo8YwDFQAAAAAdAAAAABAE)">
 
 
 
