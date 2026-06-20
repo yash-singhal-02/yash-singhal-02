@@ -1,19 +1,19 @@
 ![logo](https://github.com/yash-singhal-02/yash-singhal-02/blob/main/Screenshot%202025-04-24%20235333.png)
 <h1 align="center">Hi 👋, I'm Yash Singhal</h1>
-<h3 align="center">Aspiring Data Scientist</h3>
+<h3 align="center">Software Engineering & Backend Development Enthusiast</h3>
 <img align = "right" alt="coding" width="400" src="[C:\Users\Hp\OneDrive\Pictures\Screenshots\Screenshot 2025-04-24 235333.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdata&psig=AOvVaw0tZfFUdG2qF3YXV01yQKVV&ust=1745606407717000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMizyOGo8YwDFQAAAAAdAAAAABAE)">
 
 
 
 
 
-- 🔭 I’m currently working on **Software Development projects**
+- I’m currently working on **Software Development projects**
 
-- 🌱 I’m currently learning **Data Structure and Algorithms and C++**
+- I’m currently learning **Data Structure and Algorithms and C++**
 
-- 💬 Ask me about **My learnings and skills**
+- Ask me about **My learnings and skills**
 
-- 📫 How to reach me **y.yashsinghal207@gmail.com**
+- How to reach me **y.yashsinghal207@gmail.com**
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-singhal-02" alt="yash-singhal-02" /></a> </p>
