@@ -1,10 +1,11 @@
 # YASH SINGHAL
 Aspiring Full Stack Developer
+
 # About Me:
 -  I’m currently working on **Full Stack MERN Projects and Advanced Data Structures & Algorithms**<br><br>-  I’m looking to collaborate on **Open Source Projects, MERN Stack Applications, and Backend Development**<br><br>-  I’m looking for help with **System Design, Cloud Technologies (AWS), and Scalable Backend Development**<br><br>-  I’m currently learning **Next.js, TypeScript, Docker, and Advanced DSA for Software Engineering Interviews**<br><br>-  Ask me about **C++, Data Structures & Algorithms, Node.js, Express.js, React.js, MySQL, MongoDB, Docker, and Git**<br><br>-  Fun fact **I enjoy solving coding challenges and continuously improving my problem-solving skills through coding platforms**
 
 
-##  Socials:
+##  Connect Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yash-singhal02/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:y.yashsinghal207@gmail.com) 
 
 #  Tech Stack:
